@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="gokul.jpg">
+<img class="profile-picture" src="gokul.png">
 
 I am an apprentice at [SEFCOM](http://sefcom.asu.edu/), [Arizona State University](https://www.asu.edu/). My research interests focus on software security, including automated binary analysis and Web Security. I completed my Undergrad from [Amrita University](https://www.amrita.edu/), India.
 
